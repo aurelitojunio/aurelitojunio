@@ -17,12 +17,12 @@ Here are some ideas to get you started:
 
 Here something about me:
 
-💻 I’m a Software Developer by passion
-💗 In love with C#
-💗 In love with Bitcoin
-📝 Writer
-🎤 Speaker
-⚡ Squad Leader
+- 💻 I’m a Software Developer by passion
+- 💗 In love with C#
+- 💗 In love with Bitcoin
+- 📝 Writer
+- 🎤 Speaker
+- ⚡ Squad Leader
 
 Follow me on my social networks:
 Github Badge Linkedin Badge Medium Badge
