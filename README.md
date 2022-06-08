@@ -14,3 +14,19 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Here something about me:
+
+💻 I’m a Software Developer by passion
+💗 In love with C#
+💗 In love with Bitcoin
+📝 Writer
+🎤 Speaker
+⚡ Squad Leader
+
+Follow me on my social networks:
+Github Badge Linkedin Badge Medium Badge
+
+https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
+https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
+https://img.shields.io/badge/Bitcoin-000000?style=for-the-badge&logo=bitcoin&logoColor=white
