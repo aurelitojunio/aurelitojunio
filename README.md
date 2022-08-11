@@ -22,7 +22,7 @@ Here something about me:
 - :moneybag: In business with Bitcoin
 - 📝 Writer
 - 🎤 Speaker
-- ⚡ Squad Leader
+- ⚡ Tech Leader
 
 Follow me on my social networks:
 
